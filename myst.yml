@@ -13,7 +13,7 @@ project:
   exports:
     - format: pdf
       template: plain_latex_book # myst templates list --tex
-      output: Exports/boek.pdf  
+      output: Exports/Boek.pdf  
   
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:

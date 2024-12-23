@@ -21,8 +21,8 @@ project:
     - file: Intro.md
     - title: Chapters
       children:
-        - file: Chapters\H1.md
-        - file: Chapters\H2.md
+        - file: Chapters/H1.md
+        - file: Chapters/H2.md
     
 site:
   template: book-theme
